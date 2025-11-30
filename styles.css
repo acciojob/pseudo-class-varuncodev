@@ -6,13 +6,11 @@
     content:"This is before text";
     color:#f00;
     font-size:20px;
-    display:block;
     margin-bottom:10px;
 }
 #container::after{
     content:"This is after text";
     color:#f00;
     font-size:20px;
-    display:block;
     margin-top:10px;
 }
